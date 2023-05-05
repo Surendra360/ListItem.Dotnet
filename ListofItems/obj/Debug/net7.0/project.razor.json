@@ -1,0 +1,66 @@
+{
+  "SerializedFilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\obj\\Debug\\net7.0\\project.razor.json",
+  "FilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\Dapper.Razor.Demo.csproj",
+  "Configuration": {
+    "ConfigurationName": "MVC-3.0",
+    "LanguageVersion": "6.0",
+    "Extensions": [
+      {
+        "ExtensionName": "MVC-3.0"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 1100
+  },
+  "RootNamespace": "Dapper.Razor.Demo",
+  "Documents": [
+    {
+      "FilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\Pages\\Products\\Delete.cshtml",
+      "TargetPath": "Pages\\Products\\Delete.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "TargetPath": "Pages\\Shared\\_ValidationScriptsPartial.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\Pages\\Shared\\_Layout.cshtml",
+      "TargetPath": "Pages\\Shared\\_Layout.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\Pages\\_ViewStart.cshtml",
+      "TargetPath": "Pages\\_ViewStart.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\Pages\\Index.cshtml",
+      "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\Pages\\Products\\Edit.cshtml",
+      "TargetPath": "Pages\\Products\\Edit.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\Pages\\Products\\Create.cshtml",
+      "TargetPath": "Pages\\Products\\Create.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\Pages\\_ViewImports.cshtml",
+      "TargetPath": "Pages\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Surendra\\Desktop\\ListofItems\\Pages\\Error.cshtml",
+      "TargetPath": "Pages\\Error.cshtml",
+      "FileKind": "mvc"
+    }
+  ],
+  "SerializationFormat": "0.3"
+}
